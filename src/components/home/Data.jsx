@@ -57,8 +57,7 @@ const Data = () => {
         <h3 className="home__subtitle">Software Engineer</h3>
         <p className="home__description">
         Welcome to my portfolio! I'm a software developer based in Mumbai with an interest in web development 
-        and data analysis. I'm eager to take up new challenges and learn. Explore my portfolio to see examples 
-        of my work and get in touch through the contact page or my socials. Thanks! 
+        and data analysis.
         </p>
         <a href="#contact" className="button button--flex">
           Say Hello
